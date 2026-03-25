@@ -30,13 +30,26 @@
 
 
 
-let a = prompt("a soni")
-let b = prompt("b soni")
-let c = prompt("c soni")
+// let a = prompt("a soni")
+// let b = prompt("b soni")
+// let c = prompt("c soni")
 
-if (a <= b && b <= c) {
-    alert("true")
-}else{
-    alert("false")
-}
+// if (a <= b && b <= c) {
+//     alert("true")
+// }else{
+//     alert("false")
+// }
  
+
+
+// let a = prompt("soni yoz")
+// let b = prompt("b soni")
+
+// if (a % 2 === 0 && b % 2 === 0) {
+//     alert("juft son")
+// }else{
+//     alert("toq son")
+// }
+
+
+
