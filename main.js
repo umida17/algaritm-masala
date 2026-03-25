@@ -26,4 +26,17 @@
 // }else{
 //     alert("false")
 // }
+
+
+
+
+let a = prompt("a soni")
+let b = prompt("b soni")
+let c = prompt("c soni")
+
+if (a <= b && b <= c) {
+    alert("true")
+}else{
+    alert("false")
+}
  
