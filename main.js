@@ -65,5 +65,17 @@
 
 
 
+let son =123;
+
+let  a =Math.floor(a % 10);
+let b = Math.floor((a / 10)% 10)
+let  c = Math.floor(a / 100)
+
+ if (a !== b && b !== c) {
+    alert("true")
+ }else{
+    alert("false")
+ }
+
 
 
