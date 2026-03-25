@@ -9,8 +9,21 @@
 
 
 
-let a = prompt("a soni")
+// let a = prompt("a soni")
 
-let c = (a % 2 === 0 ) ? "juft son" : "toq son"
+// let c = (a % 2 === 0 ) ? "juft son" : "toq son"
 
-console.log(c);
+// console.log(c);
+
+
+
+// let a =+prompt ("a soni");
+// let b = +prompt("b soni");
+
+// if ( a > 2 && b <= 3) {
+//     alert ("true")
+    
+// }else{
+//     alert("false")
+// }
+ 
