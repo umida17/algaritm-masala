@@ -53,3 +53,14 @@
 
 
 
+let a = prompt("a soni")
+let b = prompt("b soni")
+let c = prompt("c soni")
+
+if (a > 0 || b > 0 || c > 0) {
+    alert("true");
+} else {
+    alert("false");
+}
+
+
