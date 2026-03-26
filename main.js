@@ -131,3 +131,13 @@
 
 
 
+
+// let a =+prompt("a soni");
+// let b =+prompt("b soni");
+// let c =+prompt("c soni");
+
+// if ((a < b && b < c) || (c < b &&  b < a)) {
+//    alert("true")
+// }else{
+//    alert("folse")
+// }
