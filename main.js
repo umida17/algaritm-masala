@@ -216,3 +216,18 @@
 // } else {
 //   console.log("false");
 // }
+
+
+
+
+
+
+// let n = prompt("Sonni kiriting:");
+
+// if (n >= 100 && n <= 999 && n % 2 != 0) {
+//   console.log("true");
+// } else {
+//   console.log("false");
+// }
+
+
