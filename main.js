@@ -65,17 +65,19 @@
 
 
 
-let son =123;
+// let son =123;
 
-let  a =Math.floor(a % 10);
-let b = Math.floor((a / 10)% 10)
-let  c = Math.floor(a / 100)
+// let  a =Math.floor(a % 10);
+// let b = Math.floor((a / 10)% 10)
+// let  c = Math.floor(a / 100)
 
- if (a !== b && b !== c) {
-    alert("true")
- }else{
-    alert("false")
- }
+//  if ( (a > 0 || b < 0 && c > 0)&& (a < 0 || b > 0 || c < 0 ) && (a > 0 && b > 0 && c <0 )){
+//     alert("true")
+//  }else{
+//     alert("false")
+//  }
+
+
 
 
 
