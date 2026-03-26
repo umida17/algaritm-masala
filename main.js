@@ -149,3 +149,6 @@
 // let b = prompt("b soni kiritin")
 // let c = a % 2 === 0 ? "juft son "  : "toq son"
 // console.log(c);
+
+
+
