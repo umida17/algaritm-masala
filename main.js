@@ -109,3 +109,15 @@
 // } else {
 //   console.log("false");
 // }
+
+
+
+
+// let a = prompt("a soni kiriting")
+
+// let c = (a % 2 === 0 ) ? "juft son" : "toq son"
+
+// console.log(c);
+
+
+
