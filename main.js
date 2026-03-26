@@ -183,3 +183,15 @@
 
 
 
+// let k = prompt("s sonini kiriting");
+// let o = prompt("d sonini kiriting");
+// let m = prompt("g sonini liriting");
+
+// if (k > 0 && o < 0 && m < 0) {
+//    alert("true")
+// }else{
+//    alert("fulse")
+// }
+
+
+
