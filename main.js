@@ -80,4 +80,16 @@
 
 
 
+// let number = prompt("son kiriitng");
+
+// let a = Math.floor(number % 10);
+// let b = Math.floor(number / 10) % 10;
+// let c = Math.floor(number / 100);
+
+
+// if (a !== b && b !==c ) {
+//     alert(true)
+// } else {
+//    alert(false)    
+// }
 
