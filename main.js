@@ -171,3 +171,12 @@
 //   : console.log("false");
 
 
+
+// let s = prompt("s sonini kiriting");
+// let d = prompt("d sonini kiriting");
+// let g = prompt("g sonini liriting");
+// if (s > 0 && d > 0 && g > 0) {
+//    alert("true")
+// }else{
+//    alert("fulse")
+// }
