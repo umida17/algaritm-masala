@@ -169,3 +169,5 @@
 // ((A % 2 != 0 && B % 2 == 0) || (A % 2 == 0 && B % 2 != 0))
 //   ? console.log("true")
 //   : console.log("false");
+
+
