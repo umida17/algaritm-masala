@@ -209,3 +209,10 @@
 
 
 
+// let n = prompt("Sonni kiriting:");
+
+// if (n >= 10 && n <= 99 && n % 2 == 0) {
+//   console.log("true");
+// } else {
+//   console.log("false");
+// }
