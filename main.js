@@ -152,6 +152,17 @@
 
 
 
+
+// let A = +prompt("A:");
+// let B = +prompt("B:");
+
+// ((A % 2 != 0 && B % 2 == 0) || (A % 2 == 0 && B % 2 != 0))
+//   ? console.log("true")
+//   : console.log("false");
+
+
+
+
 // let A = +prompt("A:");
 // let B = +prompt("B:");
 
