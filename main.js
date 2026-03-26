@@ -93,3 +93,19 @@
 //    alert(false)    
 // }
 
+
+
+
+// let a = +prompt("a ni kiriting:");
+// let b = +prompt("b ni kiriting:");
+// let c = +prompt("c ni kiriting:");
+
+// if (
+//   (a == b && a != c) ||
+//   (a == c && a != b) ||
+//   (b == c && b != a)
+// ) {
+//   console.log("true");
+// } else {
+//   console.log("false");
+// }
