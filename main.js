@@ -121,10 +121,13 @@
 
 
 
-let a = prompt("a soni");
-let b = prompt("b soni");
-if (a >= 0 && b < -2) {
-   alert("true")
-}else{
-   alert("folse")
-}
+// let a = prompt("a soni");
+// let b = prompt("b soni");
+// if (a >= 0 && b < -2) {
+//    alert("true")
+// }else{
+//    alert("folse")
+// }
+
+
+
