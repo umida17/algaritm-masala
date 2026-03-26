@@ -183,9 +183,9 @@
 
 
 
-// let k = prompt("s sonini kiriting");
-// let o = prompt("d sonini kiriting");
-// let m = prompt("g sonini liriting");
+// let k = prompt("k sonini kiriting");
+// let o = prompt("o sonini kiriting");
+// let m = prompt("m sonini liriting");
 
 // if (k > 0 && o < 0 && m < 0) {
 //    alert("true")
@@ -195,3 +195,13 @@
 
 
 
+
+// let n = prompt("n sonini kiriting");
+// let v = prompt("v sonini kiriting");
+// let w = prompt("w sonini liriting");
+
+// if (n > 0 && v > 0 && w < 0) {
+//    alert("true")
+// }else{
+//    alert("fulse")
+// }
